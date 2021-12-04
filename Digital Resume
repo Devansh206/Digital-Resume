@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume-Devansh Kumar Srivastava</title>
+</head>
+<body style="background-color: silver;">
+    <div>
+        <center>
+            <h1>Devansh Kumar Srivastava</h1>
+            <h6>
+            <span>Email id:<a href="devanshsrivastava88@gmai.com">devanshsrivastava884</a></span><br />
+            <span>Phone No: 8299855857</span><br />
+            <span>Adress: Tehsil Colony Near SBI main branch Barabanki</span><br />
+            <span>Website: <a href="www.kiet.edu">www.kiet.edu</a></span><br />
+        </h6>
+        </center>
+    </div>
+    <hr />
+    <div style="border: 5px solid black;margin: 10px;padding: 10px;">
+        <div>
+            <h1><strong>Education</strong></h1>
+            <h4>
+            <span>-Btech(Hons.),Electrical Enginnering</span><br />
+           <span>  KIET Group of Institutions</span><br />
+            <span>2019-2023</span><br />
+            <span>Percentage:82.4</span><br />
+        </h4>
+        <h3>Senior Scondary (12),Science</h3>
+        <h4>
+            <span>St.Anthony School</span><br />
+            <span>(CBSE BOARD)</span><br />
+            <span>Year Of Completion:2019</span><br />
+            <span>Percentage:81.4</span><br />
+        </h4>
+        <h3>SECONDRY</h3>
+        <h4>
+            <span>St.Anthony School</span><br />
+            <span>(CBSE BOARD)</span><br />
+            <span>Year Of Completion:2019</span><br />
+            <span>CGPA:8.0</span>
+            
+        </h4>
+        
+
+        </div>
+        <div>
+            <h1>
+                Position of Responsibility
+            </h1>
+            
+                <p>I am Presently working as a Member of Management Team of KIET Music Society.<br />
+                   Kiet Music Society used to organize all the musical events in the collage<br />
+                as well as outside the collage.<br />
+                </p>
+                <p>In 2019 I was selected as a leader of my house in school. I have the Responsibility of<br />
+                my house regarding sports and different events.</p>
+
+            
+        </div>
+        <div>
+            <h1>PROJECTS</h1>
+            <h4>Iot Based LPG Gas Detector</h4>
+            <p>It was Iot based LPG gas detector in which the setup will detect the leakage of <br />
+                gas and open the window of the storage place of LPG cylinders and Kitchen. Buzzer <br />
+                will on and start getting the reading on our device.
+            </p>
+            <h4>Review Papee on Renewable Energy Generation</h4>
+            <p>
+                I have reviewed abou the Renewable energy generation of different countries <br />
+                and their comparision with diffrent countries.
+            </p>
+            
+        </div>
+        <div>
+            <h1>SKILLS</h1>
+            <h4>C PROGRAMING</h4>  <h4>PYTHON PROGRAMMING</h4>     <h4>Internet of things(Iot)</h4>  <h4>MATLAB</h4> <h4>FRONTEND WEB DEVELOPER(HTML CSS JAVASCRIPT)</h4>
+        </div>
+    </div>
+    
+</body>
+</html>
